@@ -5,6 +5,12 @@ Unofficial TikTok API library: scrape video and user profile metadata, and optio
 ## Install
 
 ```bash
+pip install tiktok-api-unofficial
+```
+
+Or install from source:
+
+```bash
 pip install -e .
 ```
 
