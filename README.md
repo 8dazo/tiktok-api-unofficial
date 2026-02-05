@@ -1,6 +1,12 @@
-# tiktok-api
+# tiktok-api-unofficial
+
+[![PyPI version](https://img.shields.io/pypi/v/tiktok-api-unofficial.svg)](https://pypi.org/project/tiktok-api-unofficial/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/pypi/pyversions/tiktok-api-unofficial.svg)](https://pypi.org/project/tiktok-api-unofficial/)
 
 Unofficial TikTok API library: scrape video and user profile metadata, and optionally download videos, slides, and audio. No official API key required.
+
+**Repo:** [github.com/8dazo/tiktok-api-unofficial](https://github.com/8dazo/tiktok-api-unofficial)
 
 ## Install
 
